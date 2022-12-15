@@ -1,0 +1,6 @@
+for: un for es un bucle que nos sirve para iterar un conjunto de intrucciones, dentro del for esta dividido en tras partes.
+En la primera le asignamos un valor a la variable , en la segunda describimos cuando se va a detener el bucle y en la tercera le indicamos
+como incrementar su valor
+||: "o" o "or" nos sirve para determinar si una de las dos opciones es true. Si una de las dos o las dos son true va a dar true, y si ambas son false va a dar false
+&&: "y" o "and" nos sirve para evaluar ambas expresiones. si ambas son true va a dar true. Si ambas o alguna de ellas es false va a dar false.
+!: "no" o "not" nos sirve para negar el valor booleano que haya y dara como resultado lo opuesto.
