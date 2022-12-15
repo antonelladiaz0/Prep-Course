@@ -1,0 +1,2 @@
+Arrays : Los arrays son contenedores que almacenan diferentes tipos de datos, se definen con corchetes [] y se separan por una coma. Se accede a sus 
+elementos atravez de un indice.
