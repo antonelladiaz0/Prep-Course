@@ -1,0 +1,12 @@
+Objetos: son una coleccion de propiedades. De manera literal se escriben
+de esta forma: var objeto ={
+              nombreDeLaPropiedad1: .... ,
+              nombreDeLaPropiedad2: .... ,
+              nombreDeLaPropiedad3: .... ,
+}
+Propiedades: las propiedades son una asociacion entre una clave y el valor que le queremos guardar en esa clave.
+Metodos: son una funcion guardada en un objeto.
+Bucle for..in: es similar al bucle for, solo que este es para recorrer claves de objetos terminara cuando haya terminado
+de iterar cada clave.
+Notación de puntos vs notación de corchetes: Ambas sirven para acceder a las propiedades, pero hay una pequeña diferencia entre ellas
+es que dot.notation es mas literal busca el nombre de una propiedad con ese nombre en cambio bracket notation puede buscar una variable
